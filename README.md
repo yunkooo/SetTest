@@ -15,3 +15,7 @@
 ## eslint-config-prettier, eslint-plugin-prettier 설치
 
 `npm install -D eslint-config-prettier eslint-plugin-prettier`
+
+## eslint-config-airbnb-base 설치
+
+`npx install-peerdeps --dev eslint-config-airbnb-base`
