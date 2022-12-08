@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: 'bug template - 3'
 about: Create a report to help us improve
 title: ''
 labels: ''

@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: 'feat temaplate - 1'
 about: Suggest an idea for this project
 title: ''
 labels: ''
