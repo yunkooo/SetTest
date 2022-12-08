@@ -11,3 +11,7 @@
 ## Eslint, Prettier 기본 파일 생성
 
 `.eslintrc.js`, `.eslintignore`, `.prettierrc.js`,`.prettierignore`
+
+## eslint-config-prettier, eslint-plugin-prettier 설치
+
+`npm install -D eslint-config-prettier eslint-plugin-prettier`
