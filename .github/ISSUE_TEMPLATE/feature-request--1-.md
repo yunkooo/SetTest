@@ -1,18 +1,9 @@
 ---
 name: 'Feature request -1 '
-about: Suggest an idea for this project
-title: ''
-labels: bug, enhancement
+about: Feature request
+title: "[Feat] 제목을 입력해주세요"
+labels: "✨ Feature"
 assignees: yunkooo
-
----
-
----
-name: Feature request
-about: Suggest an idea for this project
-title: "[WSC-XXX]"
-labels: ''
-assignees: ''
 
 ---
 
