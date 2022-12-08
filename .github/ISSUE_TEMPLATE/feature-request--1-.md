@@ -2,8 +2,8 @@
 name: 'Feature request -1 '
 about: Suggest an idea for this project
 title: ''
-labels: ''
-assignees: ''
+labels: bug, enhancement
+assignees: yunkooo
 
 ---
 
