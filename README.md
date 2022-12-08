@@ -23,3 +23,22 @@
 ## eslint-plugin-react, eslint-plugin-react-hooks 설치
 
 `npm i -D eslint-plugin-react eslint-plugin-react-hooks`
+
+## eslint, prettier 저장시 자동 수정 설정
+
+setting.json
+
+```
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+
+  // 저장시 자동 변경
+  "editor.formatOnSave": true
+
+  // eslint 자동 수정
+    "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+```
