@@ -19,3 +19,7 @@
 ## eslint-config-airbnb-base 설치
 
 `npx install-peerdeps --dev eslint-config-airbnb-base`
+
+## eslint-plugin-react, eslint-plugin-react-hooks 설치
+
+`npm i -D eslint-plugin-react eslint-plugin-react-hooks`

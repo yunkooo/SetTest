@@ -6,8 +6,11 @@ module.exports = {
   },
   extends: [
     "eslint:recommended",
+    "plugin:react/recommended",
+    "plugin:react-hooks/recommended",
     "plugin:import/recommended",
     "plugin:prettier/recommended",
+    "airbnb-base",
     "prettier",
   ],
   overrides: [],
@@ -15,6 +18,6 @@ module.exports = {
     ecmaVersion: "latest",
     sourceType: "module",
   },
-  plugins: ["react"],
+  plugins: ["react", "import"],
   rules: {},
 };
